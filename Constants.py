@@ -1,0 +1,2 @@
+WIDTH, HEIGHT = 1280, 550 # 1200 500 originally
+G = 6.67e-11
