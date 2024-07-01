@@ -6,4 +6,4 @@ This is a simulation of four important gravitational quantities: gravitational f
 The code for this project was written using the PyGame library, so that would be required to run the program. I'll soon release this as a webpage that could be easily accesed by students and teachers alike.
 
 #### YouTube Video
-I made a YouTube video on how I went about building this project, which was my first independent simulation project. Check it out at 
+I made a YouTube video on how I went about building this project, which was my first independent simulation project. Check it out at https://youtu.be/mucb0HKRuZU?si=XSpiBKtlv2r1DVuA.
